@@ -19,7 +19,7 @@ class Officers extends REST_Controller {
     }
 
     /**
-     * Gets the officer's id 
+     * Gets the officer's id number
      *
      * @param Integer $id - integer for identification number, id = 0 if none is specified 
      */
